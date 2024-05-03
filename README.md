@@ -37,9 +37,6 @@ _Insert screenshots of your app here, demonstrating the product listing, cart fu
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [create an issue](https://github.com/yourusername/sqlflite-demo-project/issues) or [submit a pull request](https://github.com/yourusername/sqlflite-demo-project/pulls).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
